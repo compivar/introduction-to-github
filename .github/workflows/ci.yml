@@ -42,5 +42,5 @@ jobs:
           
           
       - name: checking suggestion
-        run: npx remark . --use remark-preset-lint-consistent --frail
+        run: npx remark . --use remark_preset_lint_consistent --frail
 
